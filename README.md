@@ -10,7 +10,7 @@ Beautiful covid information app build in SwiftUI with networking
 <img src="screenshots/world_statistics.png" height=400 />
 
 <h4>Country list statistics</h4>
-<img src="screenshots/country_statistics.png" height=400 />
+<img src="screenshots/country_list.png" height=400 />
 
 <h4>Country detail statistics</h4>
 <img src="screenshots/country_statistics.png" height=400 />
